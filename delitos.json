@@ -1,0 +1,98 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento sobre delitos en Tierra del Fuego",
+  "entries": [
+      {
+          "name": "Robo Abigeato: Art. 167 ter. CP. ARG. Pena de dos a seis años de prisión.",
+          "description": "Delito en donde la propiedad está violentada, hay violencia sobre personas y faltantes de bienes, con arma de fuego y sustracción de animales.",
+          "props": [
+              "La propiedad está violentada",
+              "Hay violencia sobre personas y faltantes de bienes",
+              "Se produjo el ilícito con arma de fuego",
+              "Fue en un lugar despoblado y en banda",
+              "Incluye sustracción de animales"
+          ]
+      },
+      {
+          "name": "Robo: Art. 167. CP. ARG. Pena de tres a diez años de prisión.",
+          "description": "Delito que involucra la propiedad violentada, violencia sobre personas y faltantes de bienes, con arma de fuego, en un lugar despoblado y en banda, en donde no hay sustracción de animales.",
+          "props": [
+              "La propiedad está violentada",
+              "Hay violencia sobre personas y faltantes de bienes",
+              "Se produjo el ilícito con arma de fuego",
+              "Fue en un lugar despoblado y en banda"
+          ]
+      },
+      {
+          "name": "Robo: Art. 166. CP. ARG. Inciso 2, 2do párrafo, la pena se elevará a un tercio en su mínimo y su máximo.",
+          "description": "Delito que involucra la propiedad violentada, violencia sobre personas y faltantes de bienes, con arma de fuego.",
+          "props": [
+              "La propiedad está violentada",
+              "Hay violencia sobre personas y faltantes de bienes",
+              "Se produjo el ilícito con arma de fuego"
+          ]
+      },
+      {
+          "name": "Robo: Art. 165 del CP. ARG. Pena de diez a veinticinco años de prisión.",
+          "description": "Delito que involucra la propiedad violentada, violencia sobre personas y faltantes de bienes, con homicidio.",
+          "props": [
+              "La propiedad está violentada",
+              "Hay violencia sobre personas y faltantes de bienes",
+              "El robo resultó con homicidio"
+          ]
+      },
+      {
+          "name": "Robo: Art. 164 del CP. ARG. Pena de un mes a seis años de prisión.",
+          "description": "Delito que involucra la propiedad violentada, violencia sobre personas y faltantes de bienes.",
+          "props": [
+              "La propiedad está violentada",
+              "Hay violencia sobre personas y faltantes de bienes"
+          ]
+      },
+      {
+          "name": "Daño: Art. 183. CP. ARG. Pena de quince días a un año de prisión.",
+          "description": "Delito que solo involucra la propiedad violentada.",
+          "props": [
+              "La propiedad está violentada"
+          ]
+      },
+      {
+          "name": "Hurto: Art. 163 bis del CP. ARG. Aumento de pena un tercio en su mínimo y en su máximo.",
+          "description": "Delito en donde la propiedad no está violentada, que posee faltantes de bienes, sin daños, de forma ilegítima, donde se utilizó ganzúa o llave falsa para ingresar y el perpetrador es personal de las fuerzas de seguridad.",
+          "props": [
+              "Posee faltantes de bienes, sin daños, de forma ilegítima",
+              "Se utilizó ganzúa o llave falsa para ingresar",
+              "El perpetrador es personal de las fuerzas de seguridad"
+          ]
+      },
+      {
+          "name": "Hurto: Art. 163 CP. Pena de uno a seis años de prisión.",
+          "description": "Delito en donde la propiedad no está violentada, pero posee faltantes de bienes, sin daños, donde se utilizó llave falsa al ingresar.",
+          "props": [
+              "Posee faltantes de bienes, sin daños, de forma ilegítima",
+              "Se utilizó ganzúa o llave falsa para ingresar"
+          ]
+      },
+      {
+          "name": "Hurto: Art. 162 CP. Pena de un mes a dos años.",
+          "description": "Delito en donde la propiedad no está violentada, pero posee faltantes de bienes sin daños, donde no se utilizó llave falsa o ganzúa al ingresar.",
+          "props": [
+              "Posee faltantes de bienes, sin daños, de forma ilegítima"
+          ]
+      },
+      {
+          "name": "Usurpación: Art. 181. CP. ARG. Pena de seis meses a tres años de prisión.",
+          "description": "Delito en donde la propiedad no está violentada y no posee faltantes de bienes sin daños, pero hay personas ajenas con abuso de confianza invadiendo la propiedad.",
+          "props": [
+              "Hay personas ajenas con abuso de confianza invadiendo la propiedad"
+          ]
+      },
+      {
+          "name": "Propietarios o inquilinos habitan la propiedad sin novedad.",
+          "description": "No hay delito.",
+          "props": [
+            "No posee propiedades"
+          ]
+      }
+  ]
+}
