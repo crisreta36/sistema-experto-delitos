@@ -14,8 +14,8 @@ Autor: Cristian Roman Retamar
 ------------------------------
 
 
-                                        SISTEMA EXPERTO GRAVEDAD Y PENA DE LOS DELITOS CONTRA LA PROPIEDAD
-                                        ------------------------------------------------------------------
+                             SISTEMA EXPERTO GRAVEDAD Y PENA DE LOS DELITOS CONTRA LA PROPIEDAD
+                             ------------------------------------------------------------------
 
                                                             
 
@@ -31,7 +31,7 @@ Autor: Cristian Roman Retamar
 
 
 --------------------------------------------------------------------------
-### README - Sistema Experto para la Clasificación de Delitos
+### README - Sistema Experto para la Clasificación de Delitos contra la Propiedad.
 
 #### **Descripción del Proyecto**
 Este sistema experto está diseñado para proporcionar una herramienta de diagnóstico y clasificación de delitos basada en reglas y árboles de decisión. Utiliza un modelo de conocimiento estructurado en torno al Código Penal de la Nación Argentina, permitiendo categorizar delitos según su gravedad, uso de armas, y otros factores relevantes. Es una herramienta ideal para asistencia en tareas policiales y análisis de casos en la región de Tierra del Fuego.
