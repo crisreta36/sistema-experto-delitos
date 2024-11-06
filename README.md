@@ -14,8 +14,8 @@ Autor: Cristian Roman Retamar
 ------------------------------
 
 
-                                        SISTEMA EXPERTO GRAVEDAD DE LOS DELITOS
-                                        ----------------------------------------
+                                        SISTEMA EXPERTO GRAVEDAD Y PENA DE LOS DELITOS CONTRA LA PROPIEDAD
+                                        ------------------------------------------------------------------
 
                                                             
 
@@ -191,6 +191,6 @@ Siguiendo estos pasos, deberías tener el sistema experto completamente funciona
 ## ARCHIVO MAIN.Py
 
 
-El código crea una API REST con FastAPI para un sistema experto que clasifica delitos segun su gravedad. La API permite cargar una base de conocimientos (/base/cargar), iniciar una consulta (/consultar/iniciar), y procesar respuestas de usuarios (/consultar/responder). La lógica principal de inferencia reside en el motor (engine), que contiene las reglas y estructuras necesarias para el razonamiento.
+El código crea una API REST con FastAPI para un sistema experto que clasifica delitos contra la propiedad segun su gravedad y pena. La API permite cargar una base de conocimientos (/base/cargar), iniciar una consulta (/consultar/iniciar), y procesar respuestas de usuarios (/consultar/responder). La lógica principal de inferencia reside en el motor (engine), que contiene las reglas y estructuras necesarias para el razonamiento.
 
-```
+* [Ver Documento](documentacion/2DA-ENTREGA-SISTEMA-EXPERTO-DELITOS.pdf)
