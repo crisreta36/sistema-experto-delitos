@@ -6,7 +6,7 @@ from experto_general.engine import Engine
 # Motor como variable global
 engine = Engine()
 
-# Carga la base de conocimientos desde "delitos.json" al iniciar Base_de_Conocimiento_Diagnostico_Automotriz
+# Carga la base de conocimientos desde "delitos.json" al iniciar delitos.json
 try:
     engine.base.from_json("delitos.json")
     print("Base de conocimientos 'delitos_tdf.json' cargada exitosamente.")
