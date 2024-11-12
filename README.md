@@ -34,7 +34,7 @@ Autor: Cristian Roman Retamar
 ### README - Sistema Experto para la Clasificación de Delitos contra la Propiedad.
 
 #### **Descripción del Proyecto**
-Este sistema experto está diseñado para proporcionar una herramienta de diagnóstico y clasificación de delitos basada en reglas y árboles de decisión. Utiliza un modelo de conocimiento estructurado en torno al Código Penal de la Nación Argentina, permitiendo categorizar delitos según su gravedad, uso de armas, y otros factores relevantes. Es una herramienta ideal para asistencia en tareas policiales y análisis de casos en la región de Tierra del Fuego.
+Este sistema experto está diseñado para proporcionar una herramienta de diagnóstico y clasificación de delitos basada en reglas y árboles de decisión. Utiliza un modelo de conocimiento estructurado en torno al Código Penal de la Nación Argentina, permitiendo categorizar delitos según su gravedad las penas, uso de armas, y otros factores relevantes. Es una herramienta ideal para asistencia en tareas policiales y análisis de casos en la región de Tierra del Fuego.
 
 ---
 
@@ -48,13 +48,13 @@ El sistema tiene como objetivo asistir en la categorización de delitos mediante
 **a. Reglas**
 - La base de conocimiento se organiza en reglas del tipo `IF <condición> THEN <resultado>`.
 - Ejemplo:
-  - **Condición:** Si el delito incluye violencia y uso de arma de fuego.
+  - **Condición:** Si el delito incluye violencia y uso de arma de fuego, etc...
   - **Resultado:** Clasificación como `"Robo con arma de fuego"`.
 
 **b. Árbol de Decisión**
 - Guía el sistema con preguntas específicas:
-  - Ejemplo: "¿Incluye violencia?"  
-  - Cada respuesta conduce a una clasificación específica de delito.
+  - Ejemplo: "¿La propiedad esta violentada?"  
+  - Cada respuesta conduce a una clasificación específica del delito y su Articulado el en C.P. ARG.
 
 **c. Criterios y Factores**
 - **Tipo de violencia:** Clasifica si el delito incluye violencia sobre personas o propiedades.
@@ -99,7 +99,7 @@ El sistema tiene como objetivo asistir en la categorización de delitos mediante
 
 ### Guía de Instalación y Ejecución
 
-Esta guía te ayudará a configurar y ejecutar el sistema experto sobre delitos utilizando **FastAPI** para el backend y **React** para el frontend. Asegúrate de seguir cada paso con precisión.
+Guía para a configurar y ejecutar el sistema experto sobre delitos utilizando **FastAPI** para el backend y **React** para el frontend. Asegúrate de seguir cada paso con precisión.
 
 #### Requisitos previos
 
@@ -191,6 +191,6 @@ Siguiendo estos pasos, deberías tener el sistema experto completamente funciona
 ## ARCHIVO MAIN.Py
 
 
-El código crea una API REST con FastAPI para un sistema experto que clasifica delitos contra la propiedad segun su gravedad y pena. La API permite cargar una base de conocimientos (/base/cargar), iniciar una consulta (/consultar/iniciar), y procesar respuestas de usuarios (/consultar/responder). La lógica principal de inferencia reside en el motor (engine), que contiene las reglas y estructuras necesarias para el razonamiento.
+El código crea una API REST con FastAPI para el sistema experto que clasifica delitos contra la propiedad segun su gravedad y pena. La API permite cargar una base de conocimientos (/base/cargar), iniciar una consulta (/consultar/iniciar), y procesar respuestas de usuarios (/consultar/responder). La lógica principal de inferencia reside en el motor (engine), que contiene las reglas y estructuras necesarias para el razonamiento.
 
 * [Ver Documento](documentacion/2DA-ENTREGA-SISTEMA-EXPERTO-DELITOS.pdf)
