@@ -33,6 +33,10 @@ Autor: Cristian Roman Retamar
 --------------------------------------------------------------------------
 ### README - Sistema Experto para la Clasificación de Delitos contra la Propiedad.
 
+LINK AL VIDEO:
+
+https://drive.google.com/file/d/19kvyQ38KYGNiYA0fs03Agx6CvkOK-IB9/view?usp=sharing
+
 #### **Descripción del Proyecto**
 Este sistema experto está diseñado para proporcionar una herramienta de diagnóstico y clasificación de delitos basada en reglas y árboles de decisión. Utiliza un modelo de conocimiento estructurado en torno al Código Penal de la Nación Argentina, permitiendo categorizar delitos según su gravedad las penas, uso de armas, y otros factores relevantes. Es una herramienta ideal para asistencia en tareas policiales y análisis de casos en la región de Tierra del Fuego.
 
