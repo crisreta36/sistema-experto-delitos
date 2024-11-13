@@ -48,8 +48,8 @@ El sistema tiene como objetivo asistir en la categorización de delitos mediante
 **a. Reglas**
 - La base de conocimiento se organiza en reglas del tipo `IF <condición> THEN <resultado>`.
 - Ejemplo:
-  - **Condición:** Si el delito incluye violencia y uso de arma de fuego, etc...
-  - **Resultado:** Clasificación como `"Robo con arma de fuego"`.
+  - **Condición:** Si el delito incluye violencia, o no y si utilizo de arma de fuego, etc...
+  - **Resultado:** Clasificación como `"Robo ART..."`.
 
 **b. Árbol de Decisión**
 - Guía el sistema con preguntas específicas:
@@ -63,7 +63,7 @@ El sistema tiene como objetivo asistir en la categorización de delitos mediante
 - **Ubicación:** Considera áreas de alto riesgo.
 
 **d. Estructura Jerárquica**
-- Los criterios se evalúan en orden de importancia, comenzando con los factores más relevantes como la violencia, y avanzando hacia detalles como el tipo de arma.
+- Los criterios se evalúan en orden de importancia, comenzando con los factores más relevantes como la violencia, y avanzando hacia detalles como el tipo de arma, .
 
 ---
 
